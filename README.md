@@ -1,1 +1,1 @@
-- habits, é um projeto feito com a finalidade de ser um aplicativo de marcação de hábitos que fazemos diariamente, sua principal finalizade é marcar os hábitos diarios que fizemos ou deixamos de fazer.
+- habits, é um projeto feito com a finalidade de ser um aplicativo de marcação de hábitos que fazemos diariamente. sua principal finalizade é marcar os hábitos diarios que fizemos ou deixamos de fazer.
